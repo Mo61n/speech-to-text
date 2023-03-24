@@ -1,4 +1,4 @@
-### This script uses Web Speech API to convert speech to text with the click of a button
+### This app uses Web Speech API to convert speech to text with the click of a button
 ### Once the button is clicked, the script initializes the SpeechRecognition object from the Web Speech API
 ### The `interimResults` property is set to true to enable real-time transcription
 
